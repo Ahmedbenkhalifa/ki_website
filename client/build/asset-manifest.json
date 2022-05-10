@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c743418.css",
+    "main.js": "/static/js/main.e99dda2d.js",
+    "static/media/menicon.mp4": "/static/media/menicon.71be770633bb8691731e.mp4",
+    "static/media/windevinformation.png": "/static/media/windevinformation.f85f05e65ffeed434730.png",
+    "static/media/windevTemoignages.png": "/static/media/windevTemoignages.48376f78bbacb14b59c6.png",
+    "static/media/windevVersion.png": "/static/media/windevVersion.3dd9e5893c57ffd51357.png",
+    "static/media/lst127.png": "/static/media/lst127.bc45c1c8d4eb0f649017.png",
+    "static/media/productimgWindevMobile.png": "/static/media/productimgWindevMobile.1198a8ed629842587f77.png",
+    "static/media/ProductimgWindev.png": "/static/media/ProductimgWindev.d80db8c356b317dad3d9.png",
+    "static/media/productimgWebdev.png": "/static/media/productimgWebdev.7fb8760e3234c004603b.png",
+    "static/media/windev-mobile-pack.png": "/static/media/windev-mobile-pack.50ea09c4dbb8aaf2f6be.png",
+    "static/media/webdev-pack.png": "/static/media/webdev-pack.a2d5e0349d28e00d6fff.png",
+    "static/media/windev-pack.png": "/static/media/windev-pack.efbfdf407ddbfa098575.png",
+    "static/media/DistributeurOff.png": "/static/media/DistributeurOff.ef9b89b57b6ac2e27e84.png",
+    "static/media/windevMobileInformation.png": "/static/media/windevMobileInformation.b73382030bf0e2514f0a.png",
+    "static/media/impr.jpg": "/static/media/impr.c7b7049691c437ef01bd.jpg",
+    "static/media/oous.jpg": "/static/media/oous.634273b9d9fe596b7513.jpg",
+    "static/media/webdevinformation.png": "/static/media/webdevinformation.05aea25e73f50910925f.png",
+    "static/media/soroubat.jpg": "/static/media/soroubat.b1fc5ceaff9e15d72d80.jpg",
+    "static/media/STAM.jpg": "/static/media/STAM.ff490861dddb597b4854.jpg",
+    "static/media/office.jpg": "/static/media/office.3e9cc3b64d26defbd8a2.jpg",
+    "static/media/MAE.jpg": "/static/media/MAE.9bc5298ceeeaec3f4439.jpg",
+    "static/media/RNE.jpg": "/static/media/RNE.d98249a524c90f063615.jpg",
+    "static/media/coficab.jpg": "/static/media/coficab.8420acbbf2f118320fa8.jpg",
+    "static/media/packages-windev-webdev-windev-mobile.png": "/static/media/packages-windev-webdev-windev-mobile.c5f184de2094b7ef4dd6.png",
+    "static/media/GreenTunisie.jpg": "/static/media/GreenTunisie.e644913f404bc1db0f69.jpg",
+    "static/media/logoLarge.png": "/static/media/logoLarge.a1f80ad13146683aaa17.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.2c743418.css.map": "/static/css/main.2c743418.css.map",
+    "main.e99dda2d.js.map": "/static/js/main.e99dda2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c743418.css",
+    "static/js/main.e99dda2d.js"
+  ]
+}
